@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+        "cloud_name":"drlvccpel",
+        "api_key": "511771673718649",
+        "api_secret": "yg4HPcf9qU19FCJCe1fvSUPNnIk"
+    }
+}
