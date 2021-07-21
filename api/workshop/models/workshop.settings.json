@@ -43,6 +43,18 @@
       "collection": "session",
       "via": "workshops",
       "dominant": true
+    },
+    "imgUrl": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
     }
   }
 }
